@@ -1,0 +1,56 @@
+<mjml>
+  <mj-head>
+    <mj-title>Promocja! Do 1300 zł rabatu na wybrane traktory ogrodowe.</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper padding="0" background-color="#ffffff">
+
+      <mj-section padding-top="37px" padding-bottom="40px">
+        <mj-column>
+          <mj-image src="./images/logo.png" alt="Logo AL-KO" href="https://alko-garden.pl/" width="600px" fluid-on-mobile="false" align="center"
+            padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="20px">
+        <mj-group >
+          <mj-column padding="0">
+            <mj-text padding-left="10.5%" padding-right="10.5%" padding-top="0" padding-bottom="26px" color="#000000" font-size="16px" line-height="26px"
+              font-weight="400" align="center" font-family="'Open Sans', Arial, sans-serif">
+                  Promocja na traktory ogrodowe, której nie mogłeś się doczekać! Zwrotne, komfortowe i niezawodne traktory AL-KO i&nbsp;Solo® by AL-KO tańsze do 1300 zł. Sprawdź przecenione modele na <a href="https://alko-garden.pl/traktory-easy-pro/" target="_blank" style="color: #000000; text-decoration: underline;">https://alko-garden.pl/traktory-easy-pro/</a>.
+            </mj-text>
+            <mj-text padding-left="10.5%" padding-right="10.5%"  color="#000000" font-size="16px" line-height="26px"
+              font-weight="700" align="center" font-family="'Open Sans', Arial, sans-serif">
+                  Nie zwlekaj z zakupem, promocja trwa tylko do końca czerwca!
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column>
+            <mj-image src="./images/banner.png" alt="Banner" href="https://alko-garden.pl/traktory-easy-pro/" fluid-on-mobile="false" align="center" padding="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column padding="0">
+            <mj-image src="./images/btn.png" alt="Button" href="https://alko-garden.pl/traktory-easy-pro/" fluid-on-mobile="true" align="center" padding="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-bottom="20px" padding-top="18px">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="0" padding-left="10%" padding-right="10%" color="#000000" font-size="16px" line-height="26px"
+              font-weight="400" align="center" font-family="'Open Sans', Arial, sans-serif">
+                Promocja trwa od 13.05.2026 do 30.06.2026
+            </mj-text>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

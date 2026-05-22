@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "npx mjml index.mjml -o index.html"
+  },
+  "dependencies": {
+    "mjml": "^4.18.0"
+  }
+}
